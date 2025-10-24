@@ -1,4 +1,0 @@
-Hello Abi!
-This is the UPDATED file content.
-Appending a new line.
-Another appended line.
